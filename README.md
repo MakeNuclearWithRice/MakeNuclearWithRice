@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stc9606&show_icons=true&theme=dracula)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakeNuclearWithRice&show_icons=true&theme=dracula)  
 </div>
 
 <br>
